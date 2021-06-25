@@ -31,7 +31,7 @@ const Footer = () => {
                     &copy; 2021 Loopstudios. All rights reserved.
                 </div>
                 <div class="attribution">
-    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_/blank">Frontend Mentor</a>. 
     Coded by <a href="https://github.com/xxjilin">Angelyn T. Dequito</a>.
   </div>
                
